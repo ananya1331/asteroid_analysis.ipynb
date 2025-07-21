@@ -20,7 +20,7 @@ This project analyzes NASA asteroid data and applies Machine Learning to predict
 - The model achieved **85% accuracy**  
 - Identified asteroid risk factors based on velocity & size  
 
-🚀 How to Run This Project
+## 🚀 How to Run This Project
 1.Open Google Colab: This project is designed to run easily in a Colab notebook — no setup required on your local machine.
 2.Upload & Run asteroid_analysis.ipynb
 -Go to Google Colab
@@ -33,7 +33,7 @@ git clone https://github.com/your-username/asa-asteroid-hazard.git
 cd asa-asteroid-hazard
 jupyter notebook
 
-✅ Output
+## ✅ Output
 -Visual graphs showing asteroid characteristics
 -Model predictions and evaluation metrics (accuracy, confusion matrix)
 -Final output identifying hazardous vs. non-hazardous asteroids
